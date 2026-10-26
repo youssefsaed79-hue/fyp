@@ -1,0 +1,3 @@
+# Deny direct access to sensitive backend directories
+RewriteEngine On
+RewriteRule ^(app|storage|database)/ - [F,L]

@@ -1,0 +1,34 @@
+student_id,name,email,programme,intake
+SW01084501,Ahmad bin Razak,ahmad.razak@student.uniten.edu.my,Bachelor of Computer Science (Software Engineering),2023/2024-01
+SW01084502,Nurul Huda binti Ismail,nurul.huda@student.uniten.edu.my,Bachelor of Computer Science (Software Engineering),2023/2024-01
+SW01084503,Tan Wei Ming,tan.weiming@student.uniten.edu.my,Bachelor of Computer Science (Software Engineering),2023/2024-01
+CS01084504,Siti Sarah binti Abdullah,siti.sarah@student.uniten.edu.my,Bachelor of Computer Science (Cyber Security),2023/2024-02
+CS01084505,Kavitha a/p Subramaniam,kavitha.s@student.uniten.edu.my,Bachelor of Computer Science (Cyber Security),2023/2024-02
+IT01084506,Muhammad Hafiz bin Yusof,hafiz.yusof@student.uniten.edu.my,Bachelor of Information Technology (Information Systems),2023/2024-01
+IT01084507,Lee Jia Wei,lee.jiawei@student.uniten.edu.my,Bachelor of Information Technology (Information Systems),2023/2024-01
+SW01084508,Farah Nadia binti Zainal,farah.nadia@student.uniten.edu.my,Bachelor of Computer Science (Software Engineering),2023/2024-02
+SW01084509,Daniel Lim Jun Kai,daniel.lim@student.uniten.edu.my,Bachelor of Computer Science (Software Engineering),2023/2024-02
+CS01084510,Anis Farhana binti Roslan,anis.farhana@student.uniten.edu.my,Bachelor of Computer Science (Cyber Security),2023/2024-01
+IT01084511,Amirul Asyraf bin Kamarudin,amirul.asyraf@student.uniten.edu.my,Bachelor of Information Technology (Information Systems),2023/2024-02
+SW01084512,Chong Mei Ling,chong.meiling@student.uniten.edu.my,Bachelor of Computer Science (Software Engineering),2023/2024-01
+SW01084513,Arun a/l Murugan,arun.murugan@student.uniten.edu.my,Bachelor of Computer Science (Software Engineering),2023/2024-01
+CS01084514,Ain Zulaikha binti Othman,ain.zulaikha@student.uniten.edu.my,Bachelor of Computer Science (Cyber Security),2023/2024-02
+SW01084515,Mohd Syamil bin Zakaria,syamil.zakaria@student.uniten.edu.my,Bachelor of Computer Science (Software Engineering),2023/2024-02
+IT01084516,Goh Jun Hao,goh.junhao@student.uniten.edu.my,Bachelor of Information Technology (Information Systems),2023/2024-01
+SW01084517,Natasha binti Azmi,natasha.azmi@student.uniten.edu.my,Bachelor of Computer Science (Software Engineering),2023/2024-01
+CS01084518,Devan a/l Ramasamy,devan.r@student.uniten.edu.my,Bachelor of Computer Science (Cyber Security),2023/2024-02
+SW01084519,Syed Muhammad bin Syed Ali,syed.muhammad@student.uniten.edu.my,Bachelor of Computer Science (Software Engineering),2023/2024-02
+IT01084520,Wong Kah Yee,wong.kahyee@student.uniten.edu.my,Bachelor of Information Technology (Information Systems),2023/2024-01
+SW01084521,Fatin Nabilah binti Ahmad,fatin.nabilah@student.uniten.edu.my,Bachelor of Computer Science (Software Engineering),2023/2024-01
+CS01084522,Haris Danial bin Mansor,haris.danial@student.uniten.edu.my,Bachelor of Computer Science (Cyber Security),2023/2024-02
+SW01084523,Lim Wei Shan,lim.weishan@student.uniten.edu.my,Bachelor of Computer Science (Software Engineering),2023/2024-01
+IT01084524,Nur Izzati binti Mahadi,izzati.mahadi@student.uniten.edu.my,Bachelor of Information Technology (Information Systems),2023/2024-02
+SW01084525,Sharvin a/l Naidu,sharvin.naidu@student.uniten.edu.my,Bachelor of Computer Science (Software Engineering),2023/2024-02
+CS01084526,Luqman Hakim bin Idris,luqman.idris@student.uniten.edu.my,Bachelor of Computer Science (Cyber Security),2023/2024-01
+SW01084527,Teoh Xin Yi,teoh.xinyi@student.uniten.edu.my,Bachelor of Computer Science (Software Engineering),2023/2024-01
+IT01084528,Aisyah Humaira binti Zamri,aisyah.zamri@student.uniten.edu.my,Bachelor of Information Technology (Information Systems),2023/2024-02
+SW01084529,Khoo Boon Kiat,khoo.boonkiat@student.uniten.edu.my,Bachelor of Computer Science (Software Engineering),2023/2024-02
+SW01084530,Siti Nurhaliza binti Bakar,siti.nurhaliza@student.uniten.edu.my,Bachelor of Computer Science (Software Engineering),2023/2024-01
+,Bad Student No ID,bad.noid@student.uniten.edu.my,Bachelor of Computer Science (Software Engineering),2023/2024-01
+SW01084532,Bad Email Student,not-a-valid-email-address,Bachelor of Computer Science (Software Engineering),2023/2024-01
+SW01084501,Duplicate Student In File,duplicate.ahmad@student.uniten.edu.my,Bachelor of Computer Science (Software Engineering),2023/2024-01
